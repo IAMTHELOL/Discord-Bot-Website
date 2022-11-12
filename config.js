@@ -8,7 +8,7 @@ const config = {
   name: "ProBot",
   //☺☺#SMILEYBOT
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/api/oauth2/authorize?client_id=1039654144870449264&permissions=1266981793527&scope=bot",
   //BotInvite Link
   Features: [
     {
@@ -40,8 +40,8 @@ const config = {
   //Bot Features
   serverCount: 0, //-  - Your
   memberCount: 0, //--   - Bot
-  executedCommand: 27000, //--  - Stats
-  availableCommand: 400, //---   - Here
+  executedCommand: ?, //--  - Stats
+  availableCommand: ?, //---   - Here
   //Do not change if you don't know about them
   faceBookLogo: (
     <BsFacebook className="h-10 w-10 text-[#4267B2] hover:scale-125 easeIn cursor-pointer" />

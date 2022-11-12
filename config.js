@@ -6,7 +6,7 @@ import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
   name: "ProBot",
-  //BotName
+  //☺☺#SMILEYBOT
   inviteLink:
     "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
   //BotInvite Link
@@ -38,8 +38,8 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
+  serverCount: 0, //-  - Your
+  memberCount: 0, //--   - Bot
   executedCommand: 27000, //--  - Stats
   availableCommand: 400, //---   - Here
   //Do not change if you don't know about them
@@ -54,12 +54,12 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
+  githubLink: "https://github.com/",
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
-};
+  discordLink: "☺☺#5323",
+  youtubeLink: "",
+https://www.youtube.com/channel/UC3OK4p1-Ss7oJYtRGspANIA;
 
 export default config;
